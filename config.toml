@@ -15,9 +15,9 @@ favicon_path = "logo.svg"
   join_the_ring_page = "rejoindre le webring"
   legal_information_page = "mentions légales"
 
-[[websites]]
-  Name = "Nouveau Printemps"
-  URL = "https://nouveauprintemps.org/"
-[[websites]]
-  Name = "Anhgelus Morhtuuzh"
-  URL = "https://now.anhgelus.world/"
+[[website]]
+  name = "Nouveau Printemps"
+  url = "https://nouveauprintemps.org/"
+[[website]]
+  name = "Anhgelus Morhtuuzh"
+  url = "https://now.anhgelus.world/"
