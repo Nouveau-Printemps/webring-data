@@ -6,6 +6,7 @@ description = [
 ]
 join_the_ring_path = "join_ring.html"
 legal_information_path = "legal_information.html"
+favicon_path = "logo.svg"
 
 [[websites]]
   Name = "Nouveau Printemps"
