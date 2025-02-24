@@ -8,6 +8,13 @@ join_the_ring_path = "join_ring.html"
 legal_information_path = "legal_information.html"
 favicon_path = "logo.svg"
 
+[translation]
+  random_website = "Aller sur un site aléatoire"
+  internal_pages = "Pages internes :"
+  home_page = "accueil"
+  join_the_ring_page = "rejoindre le webring"
+  legal_information_page = "mentions légales"
+
 [[websites]]
   Name = "Nouveau Printemps"
   URL = "https://nouveauprintemps.org/"
