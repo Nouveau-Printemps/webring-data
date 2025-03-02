@@ -1,7 +1,7 @@
 name = "Webring du Nouveau Printemps"
 url = "ring.nouveauprintemps.org"
 description = [
-	"Le Webring du Nouveau Printemps est un espace de réflexion sur le monde. Tous les sites cherchent ici à dépasser l'analyse rapide et futile n'expliquant en réalité pas grand chose. Comprendre le monde dans toute sa complexité pour construire un nouvel idéal est l'objectif premier de tous les acteurs présent dans ce bout perdu d'internet.", 
+	"Le Webring du Nouveau Printemps est un espace de réflexion sur le monde. Tous les sites cherchent ici à dépasser l'analyse rapide et futile n'expliquant grand chose. Comprendre le monde dans toute sa complexité pour construire un nouvel idéal est l'objectif premier de tous les acteurs présent dans cet espace perdu d'internet.", 
 	"Nouveau Printemps est une association visant à outrepasser la barrière idéologique en construisant un ensemble d'outils qui permettent d'atteindre une véritable souveraigneté individuelle et collective dans le monde du numérique."
 ]
 join_the_ring_path = "join_ring.html"
