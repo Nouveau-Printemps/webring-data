@@ -7,24 +7,18 @@ Le logiciel utilisé derrière est celui
 
 ## Concept
 
-Le Nouveau Printemps est une association de recherche et de construction visant à réflechir sur le
-monde.
-Nous cherchons à dépasser la barrière idéologique provoquant une analyse rapide, futile et 
-subjective pour ouvrir l'horizon des possibles.
-Nous construisons un ensemble d'outils pour s'émanciper des sentiers battus pour atteindre une 
-véritable souveraigneté individuelle et numérique dans le monde numérique.
+Le Webring du Nouveau Printemps est une ouverture sur un internet différent.
+Ici, tous cherchent à recentrer le numérique sur l'humain, tous critiquent la vision des GAFAM, tous rêvent d'un
+internet libre, respectant l'individualité de chaqu'un et n'oubliant pas la question écologique.
 
-Notre objectif est de construire un nouvel idéal combinant respect de la nature, de l'humain et des
-libertés.
-
-Ce webring contient tous les membres du Nouveau Printemps possédant un site web.
+Nouveau Printemps est un collectif luttant contre le monde technologique des GAFAM et leur capitalisme de surveillance,
+leur censure et leur manipulation des masses. Nous proposons de nombreux services permettant de se libérer de leur
+emprise.
 
 ## Rejoindre le cercle
 
-Pour nous rejoindre, vous devez évidemment adhérer à notre vision du monde profondément humaniste
-et animiste.
-Nous ne cherchons pas à créer une uniformité dans nos débats : nous voulons juste avancer sur des
-valeurs que nous considérons comme justes et rationnelles.
+Nous acceptons tout le monde, y compris si vous n'êtes pas membre du Nouveau Printemps.
+L'unique condition est d'être en accord avec [nos valeurs](https://nouveauprintemps.org/charte).
 
 Pour soumettre votre demande, vous devez fork ce repository et vous rajouter à la fin du fichier 
 `config.toml`, e.g.
